@@ -1,16 +1,16 @@
-# WRL
+## WRL
 System documentation for WRL
 
-## Learning Objectives
+### Learning Objectives
 
-### Helpdesk
+#### Helpdesk
 1. User support 
 2. Helpdesk system monitoring and administration
 3. Report generation
 4. Logging, assignment, and resolution of issues in the helpdesk system
 5. Remote desktop support 
  
-### Software
+#### Software
 1. Identification of and familiarization with different programming languages 
 2. Software installations and maintenance
 3. System administration 
@@ -20,14 +20,14 @@ System documentation for WRL
 7. User support
 8. User training
 
-### Information Technology Audits
+#### Information Technology Audits
 1. Audit software 
 2. Procedures and controls
 3. Report writing 
 4. Presentations
 5. Client relations
 
-### ERP Administration
+#### ERP Administration
 1. ERP system basics 
 2. ERP system installations and configurations
 3. Troubleshooting
